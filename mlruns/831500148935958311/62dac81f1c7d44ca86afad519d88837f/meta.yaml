@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/62dac81f1c7d44ca86afad519d88837f/artifacts
+end_time: 1722594268365
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 62dac81f1c7d44ca86afad519d88837f
+run_name: abrasive-duck-474
+run_uuid: 62dac81f1c7d44ca86afad519d88837f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594268236
+status: 3
+tags: []
+user_id: sandeepkumar

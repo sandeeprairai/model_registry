@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/fb8ab18ce6fb4f5e9c3b7740a03c1d03/artifacts
+end_time: 1722594565988
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: fb8ab18ce6fb4f5e9c3b7740a03c1d03
+run_name: dashing-turtle-541
+run_uuid: fb8ab18ce6fb4f5e9c3b7740a03c1d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594565801
+status: 3
+tags: []
+user_id: sandeepkumar

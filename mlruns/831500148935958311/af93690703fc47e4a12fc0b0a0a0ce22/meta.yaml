@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/af93690703fc47e4a12fc0b0a0a0ce22/artifacts
+end_time: 1722594272156
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: af93690703fc47e4a12fc0b0a0a0ce22
+run_name: melodic-asp-370
+run_uuid: af93690703fc47e4a12fc0b0a0a0ce22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594272017
+status: 3
+tags: []
+user_id: sandeepkumar

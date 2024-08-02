@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/b562b8bc81b34763b2885ec0b42074ee/artifacts
+end_time: 1722594567216
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: b562b8bc81b34763b2885ec0b42074ee
+run_name: amusing-ant-596
+run_uuid: b562b8bc81b34763b2885ec0b42074ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594567081
+status: 3
+tags: []
+user_id: sandeepkumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/2734ecceda1e4f829b129f9c8d56b90a/artifacts
+end_time: 1722594270195
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 2734ecceda1e4f829b129f9c8d56b90a
+run_name: redolent-wolf-279
+run_uuid: 2734ecceda1e4f829b129f9c8d56b90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594270070
+status: 3
+tags: []
+user_id: sandeepkumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/24647054bdb24028b5a24826ea861fce/artifacts
+end_time: 1722593264534
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 24647054bdb24028b5a24826ea861fce
+run_name: unequaled-lynx-857
+run_uuid: 24647054bdb24028b5a24826ea861fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593264399
+status: 3
+tags: []
+user_id: sandeepkumar

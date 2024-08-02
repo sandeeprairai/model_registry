@@ -1,0 +1,5 @@
+aliases: {}
+creation_timestamp: 1722593667174
+description: a random forest  model trained on Pima diabetes dataset
+last_updated_timestamp: 1722595267967
+name: diabetes-rf

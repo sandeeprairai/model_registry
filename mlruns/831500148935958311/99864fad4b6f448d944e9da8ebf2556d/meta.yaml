@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/99864fad4b6f448d944e9da8ebf2556d/artifacts
+end_time: 1722593264075
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 99864fad4b6f448d944e9da8ebf2556d
+run_name: merciful-fowl-792
+run_uuid: 99864fad4b6f448d944e9da8ebf2556d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593263967
+status: 3
+tags: []
+user_id: sandeepkumar

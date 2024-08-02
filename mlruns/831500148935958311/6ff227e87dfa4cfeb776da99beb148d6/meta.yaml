@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/6ff227e87dfa4cfeb776da99beb148d6/artifacts
+end_time: 1722593263058
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 6ff227e87dfa4cfeb776da99beb148d6
+run_name: incongruous-rat-400
+run_uuid: 6ff227e87dfa4cfeb776da99beb148d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593262976
+status: 3
+tags: []
+user_id: sandeepkumar

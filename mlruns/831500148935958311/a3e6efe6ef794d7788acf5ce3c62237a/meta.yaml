@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/a3e6efe6ef794d7788acf5ce3c62237a/artifacts
+end_time: 1722594566597
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: a3e6efe6ef794d7788acf5ce3c62237a
+run_name: gregarious-jay-86
+run_uuid: a3e6efe6ef794d7788acf5ce3c62237a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594566458
+status: 3
+tags: []
+user_id: sandeepkumar

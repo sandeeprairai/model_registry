@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/ddc8d5b59ccf4292bda9b40e345bfdf6/artifacts
+end_time: 1722594268669
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: ddc8d5b59ccf4292bda9b40e345bfdf6
+run_name: mysterious-bee-96
+run_uuid: ddc8d5b59ccf4292bda9b40e345bfdf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594268529
+status: 3
+tags: []
+user_id: sandeepkumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/5a045f8b12934a5f85815500787e3ac6/artifacts
+end_time: 1722594268846
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 5a045f8b12934a5f85815500787e3ac6
+run_name: rebellious-lynx-742
+run_uuid: 5a045f8b12934a5f85815500787e3ac6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594268684
+status: 3
+tags: []
+user_id: sandeepkumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/763f95421b844122a0ba33f900ad82de/artifacts
+end_time: 1722593264377
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 763f95421b844122a0ba33f900ad82de
+run_name: lyrical-auk-39
+run_uuid: 763f95421b844122a0ba33f900ad82de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593264262
+status: 3
+tags: []
+user_id: sandeepkumar

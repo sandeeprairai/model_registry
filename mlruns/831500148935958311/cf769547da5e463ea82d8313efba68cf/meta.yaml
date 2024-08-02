@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/cf769547da5e463ea82d8313efba68cf/artifacts
+end_time: 1722594566907
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: cf769547da5e463ea82d8313efba68cf
+run_name: upbeat-sheep-774
+run_uuid: cf769547da5e463ea82d8313efba68cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594566753
+status: 3
+tags: []
+user_id: sandeepkumar

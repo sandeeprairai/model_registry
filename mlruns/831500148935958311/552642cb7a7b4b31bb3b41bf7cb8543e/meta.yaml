@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/552642cb7a7b4b31bb3b41bf7cb8543e/artifacts
+end_time: 1722594270723
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 552642cb7a7b4b31bb3b41bf7cb8543e
+run_name: nebulous-squid-357
+run_uuid: 552642cb7a7b4b31bb3b41bf7cb8543e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594270571
+status: 3
+tags: []
+user_id: sandeepkumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/c19f2263860a4fed99a59e71bbf0ef6c/artifacts
+end_time: 1722593279657
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: c19f2263860a4fed99a59e71bbf0ef6c
+run_name: selective-dove-544
+run_uuid: c19f2263860a4fed99a59e71bbf0ef6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593252322
+status: 3
+tags: []
+user_id: sandeepkumar

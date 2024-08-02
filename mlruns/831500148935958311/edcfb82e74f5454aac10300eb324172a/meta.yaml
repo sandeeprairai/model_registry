@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/edcfb82e74f5454aac10300eb324172a/artifacts
+end_time: 1722594567357
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: edcfb82e74f5454aac10300eb324172a
+run_name: persistent-foal-816
+run_uuid: edcfb82e74f5454aac10300eb324172a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594567226
+status: 3
+tags: []
+user_id: sandeepkumar

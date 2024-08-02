@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/1b066e8f3ba042f8994b2ffd4562474d/artifacts
+end_time: 1722594271651
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 1b066e8f3ba042f8994b2ffd4562474d
+run_name: stately-vole-138
+run_uuid: 1b066e8f3ba042f8994b2ffd4562474d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594271527
+status: 3
+tags: []
+user_id: sandeepkumar

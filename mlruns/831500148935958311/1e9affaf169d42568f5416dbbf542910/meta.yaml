@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/1e9affaf169d42568f5416dbbf542910/artifacts
+end_time: 1722594271191
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 1e9affaf169d42568f5416dbbf542910
+run_name: chill-flea-414
+run_uuid: 1e9affaf169d42568f5416dbbf542910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594271056
+status: 3
+tags: []
+user_id: sandeepkumar

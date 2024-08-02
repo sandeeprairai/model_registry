@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeepkumar/OneDrive/Desktop/mlops/model_registry/mlruns/831500148935958311/52bd3a57a42340c699ff40c2e843ef48/artifacts
+end_time: 1722594565197
+entry_point_name: ''
+experiment_id: '831500148935958311'
+lifecycle_stage: active
+run_id: 52bd3a57a42340c699ff40c2e843ef48
+run_name: caring-pig-598
+run_uuid: 52bd3a57a42340c699ff40c2e843ef48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722594565074
+status: 3
+tags: []
+user_id: sandeepkumar
